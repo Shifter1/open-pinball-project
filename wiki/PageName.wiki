@@ -1,5 +1,0 @@
-#summary Open Pinball Project - Side Bar
-
-[TableOfContents Wiki Home]
-
-[FeatureRequests Feature Requests]
