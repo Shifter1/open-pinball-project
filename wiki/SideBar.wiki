@@ -3,3 +3,5 @@
 [TableOfContents Wiki Home]
 
 [FeatureRequests Feature Requests]
+
+[OppPlayfieldWiring Wiring a Playfield Using OPP Hardware]
