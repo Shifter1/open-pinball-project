@@ -1,5 +1,13 @@
 #summary Open Pinball Project - Wiki Home Page
 
+= Open Pinball Project Google Code - Home Page =
+
+Now celebrating 100 repository commits.  The repository contains hardware schematics, embedded code, and application code.  (Spanning from bits to bolts).
+
+Feature requests can be added as comments to the [FeatureRequests feature request] page, and the paid workers at the Open Pinball Project will discuss if/when the features will be implemented.
+
 = Table Of Contents =
 
  # [FeatureRequests Feature Requests]
+
+ # [OppPlayfieldWiring Wiring a Playfield Using OPP Hardware]
