@@ -1,0 +1,1 @@
+Code repository for the Open Pinball Project.  This includes embedded code for solenoid drivers, input switches, and main controller.  It will eventually include software for running the monitor/video in the back box.
